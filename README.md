@@ -1,6 +1,6 @@
 # word2word_calculator
 
-In this project, I have created a calculator which gives the user to do four main operation ( addition, substraction, multiplication, division ) with words. If the user enters
+In this project, I have created a calculator(on QT Designer) which gives the user to do four main operation ( addition, substraction, multiplication, division ) with words. If the user enters
 two words/sentences of numbers, according to the choice of operation, result will be printed as a word/sentence. It is mainly done in Turkish but I supplied a language choice.
 If you switch language from Turkish to English, you can make similar operations in English as well.
 
